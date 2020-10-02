@@ -1,5 +1,6 @@
 # additions
 .DS_Store
+.vscode
 
 # Python defaults
 # Byte-compiled / optimized / DLL files
