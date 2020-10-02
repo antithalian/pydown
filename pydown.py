@@ -22,8 +22,8 @@ footer = """</body>
 </html>"""
 
 # markdown file
-MD_FILE = 'test_content.md'
-HTML_OUT = 'index.html'
+MD_FILE = 'markdown/test_content.md'
+HTML_OUT = 'pages/index.html'
 
 # main to whack everything together with some markdown read in
 def main():
